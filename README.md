@@ -2,7 +2,7 @@
 
 (he/him)
 
-I'm an computer engineering student, avid reader, creative tinkerer, mountain hiker. 
+I'm a computer engineering student, avid reader, creative tinkerer, mountain hiker. 
 
 ### previously
 from Vancouver, BC, where the mountains are tall and the skies are blue. 
