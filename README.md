@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey, Stephen here 👋👋
 
-<!--
-**Stepheny755/Stepheny755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(he/him)
 
-Here are some ideas to get you started:
+I'm an computer engineering student, avid reader, creative tinkerer, mountain hiker. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### previously
+from Vancouver, BC, where the mountains are tall and the skies are blue. 
+
+### currently
+working on researching electromagnetic propulsion systems for hyperloop, as well as contributing to the IEEE club at UofT. Additionally, I'm learning about neural networks and other ML algorithms.
+
+### hopefully
+in the future I can use my engineering skills to make an impact in improving autonomous systems or creating efficient electromagnetics.
