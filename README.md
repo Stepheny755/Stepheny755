@@ -1,11 +1,5 @@
-## Hey, Stephen here 👋👋
+## Hey, Stephen here 👋
 
 (he/him)
 
-I'm a computer engineering student, coffee enthusiast, avid reader, creative tinkerer, mountain hiker. 
-
-### currently
-working on biomechatronics, control and computer hardware. 
-
-### in the future
-I want to work on design of biomechatronics (wearables) and control of active prostheses.
+I graduated from UofT in computer engineering, and I'm currently working in the Diller Lab on surgical microrobots. I'm a coffee enthusiast (V60, Moka) and tinkerer. Feel free to reach out to me!
